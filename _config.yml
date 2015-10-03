@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               "[0, ћ/2)"
+tagline:             'Beyond Uncertainty'
+description: >
+    Machine Learning, Linux, Innovation and more
+url:                 http://hao-liu.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Hao Liu
+  url:               http://hao-liu.github.io
+  email:             liuhaonk@gmail.com
+
+# Custom vars
+version:             1.0.0
